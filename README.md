@@ -10,3 +10,12 @@ A Results-driven Analyst 📊, experienced in  Data Analysis, Data Manipulation 
 ---
 <h3 align="left"> My Projects / Portfolio
 
+Project 1: [Sales Dashboard](https://github.com/Lilian-Waitiki/Maven_Roasters_Sales_Analysis)
+<br>Tools used: Power BI, Power Point
+
+Project 2: [Coffee Consumer Preferences and Pricing Analysis](https://github.com/Lilian-Waitiki/Coffee-Consumer-Preferences-and-Pricing-Analysis)
+<br>Tools used: Python
+
+Project 3: [Healthcare Analysis](https://github.com/Lilian-Waitiki/Healthcare-Analysis)
+<br>Tools Used: MySQL
+
