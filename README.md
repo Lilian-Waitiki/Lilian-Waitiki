@@ -1,7 +1,7 @@
 <h2 align="left">Hi👋, I'm Lilian Waitiki</h1> 
 <p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/lilian-waitiki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lilian-waitiki/" height="20" width="20" /></a>
 </p>
-A Results-driven Analyst 📊, experienced in  Data Analysis, Data Manipulation (ETL) and Visualization tools to enhance decision-making and transparency.
+A Results-driven Analyst 📊, experienced in  Data Analysis, Data Manipulation (ETL) and Visualization tools to enhance decision-making and transparency. I turn messy data into clear, useful stories.
 
 ---
 <h3 align="left">🛠️ Tools I use:</h3>
