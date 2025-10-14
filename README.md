@@ -8,18 +8,20 @@ A Results-driven Analyst 📊, experienced in  Data Analysis, Data Manipulation 
 ---
 <h3 align="left"> My Projects / Portfolio </h3>
 
-Project 1: [Sales Dashboard](https://github.com/Lilian-Waitiki/Maven_Roasters_Sales_Analysis)
-<br>Tools used:<br>
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=powerbi&logoColor=black)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation%20Design-B7472A?logo=microsoftpowerpoint&logoColor=white)
-
-Project 2: [Coffee Consumer Preferences and Pricing Analysis](https://github.com/Lilian-Waitiki/Coffee-Consumer-Preferences-and-Pricing-Analysis)
-<br>Tools used:<br>
-![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
-
-Project 3: [Healthcare Analysis](https://github.com/Lilian-Waitiki/Healthcare-Analysis)
+Project 1: [Healthcare Analysis](https://github.com/Lilian-Waitiki/Healthcare-Analysis)
 <br>Tools used:<br> 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?logo=mysql)
 ![MsExcel](https://img.shields.io/badge/Excel-Data%20Validation-217346?logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Documentation-orange?logo=jupyter)
+
+Project 2: [Sales Dashboard](https://github.com/Lilian-Waitiki/Maven_Roasters_Sales_Analysis)
+<br>Tools used:<br>
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=powerbi&logoColor=black)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation%20Design-B7472A?logo=microsoftpowerpoint&logoColor=white)
+
+Project 3: [Coffee Consumer Preferences and Pricing Analysis](https://github.com/Lilian-Waitiki/Coffee-Consumer-Preferences-and-Pricing-Analysis)
+<br>Tools used:<br>
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python)
+
+
 
